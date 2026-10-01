@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or its reproducibility package, please cite it."
+title: "Spatial Prices, Local Markets, and Urban Mobility in Montevideo"
+type: software
+authors:
+  - family-names: "Vallarino"
+    given-names: "Diego"
+version: 1.0.0
+date-released: 2026-10-01
+url: "https://www.diegovallarino.com"
+license: MIT
+keywords:
+  - spatial economics
+  - urban economics
+  - price dispersion
+  - inflation
+  - market access
+  - public transport
+  - spatial econometrics
+  - network analysis
+  - Montevideo
+  - Uruguay

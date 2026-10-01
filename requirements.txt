@@ -1,0 +1,11 @@
+pandas>=2.2,<3
+numpy>=1.26,<3
+pyarrow>=14,<26
+requests>=2.31,<3
+duckdb>=1.1,<2
+scipy>=1.11,<2
+statsmodels>=0.14,<1
+networkx>=3.2,<4
+matplotlib>=3.8,<4
+geopandas>=0.14,<2
+shapely>=2.0,<3
